@@ -1,2 +1,2 @@
 # AssemblyDiceRoller
-Written in MARS MIPS, rolls dice for Dungeons and Dragons.
+Written in MARS MIPS (Assembly simulator), rolls dice for Dungeons and Dragons.
